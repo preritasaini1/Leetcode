@@ -8,7 +8,7 @@ class Solution {
 	for(int n: n2) {
 		if(arr1.contains(n)) {
 			arr2.add(n);
-            arr1.remove((Integer)n);
+            arr1.remove((Integer)n); //Remove element to prevent duplicates, Integer for removing correct value(not number on given index)
 		}
 	}
 	int res[]=new int[arr2.size()];
