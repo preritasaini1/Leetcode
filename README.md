@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/preritasaini1/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/preritasaini1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/preritasaini1/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/preritasaini1/Leetcode/tree/master/0268-missing-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/preritasaini1/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/preritasaini1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/preritasaini1/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
