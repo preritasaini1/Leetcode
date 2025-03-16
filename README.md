@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/preritasaini1/Leetcode/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
 | [1086-divisor-game](https://github.com/preritasaini1/Leetcode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/preritasaini1/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2481-strictly-palindromic-number](https://github.com/preritasaini1/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preritasaini1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/preritasaini1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preritasaini1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
