@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/preritasaini1/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/preritasaini1/Leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/preritasaini1/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/preritasaini1/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
 | [1086-divisor-game](https://github.com/preritasaini1/Leetcode/tree/master/1086-divisor-game) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/preritasaini1/Leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/preritasaini1/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/preritasaini1/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
