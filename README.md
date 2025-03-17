@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/preritasaini1/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/preritasaini1/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/preritasaini1/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/preritasaini1/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/preritasaini1/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/preritasaini1/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preritasaini1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/preritasaini1/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/preritasaini1/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/preritasaini1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preritasaini1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/preritasaini1/Leetcode/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/preritasaini1/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/preritasaini1/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/preritasaini1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preritasaini1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
