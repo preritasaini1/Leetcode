@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/preritasaini1/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/preritasaini1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preritasaini1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/preritasaini1/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/preritasaini1/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/preritasaini1/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/preritasaini1/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/preritasaini1/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/preritasaini1/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/preritasaini1/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1086-divisor-game](https://github.com/preritasaini1/Leetcode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/preritasaini1/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/preritasaini1/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/preritasaini1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preritasaini1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/preritasaini1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/preritasaini1/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
