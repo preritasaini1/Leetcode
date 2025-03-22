@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/preritasaini1/Leetcode/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/preritasaini1/Leetcode/tree/master/1086-divisor-game) |
 ## Brainteaser
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/preritasaini1/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/preritasaini1/Leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preritasaini1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/preritasaini1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/preritasaini1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
