@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/preritasaini1/Leetcode/tree/master/0961-long-pressed-name) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/preritasaini1/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/preritasaini1/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3447-clear-digits](https://github.com/preritasaini1/Leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/preritasaini1/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
+| [3447-clear-digits](https://github.com/preritasaini1/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/preritasaini1/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/preritasaini1/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [3447-clear-digits](https://github.com/preritasaini1/Leetcode/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
