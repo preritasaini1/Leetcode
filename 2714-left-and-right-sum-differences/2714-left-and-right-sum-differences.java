@@ -1,12 +1,15 @@
 class Solution {
     public int[] leftRightDifference(int[] nums) {
-        int[] ans= new int[nums.length];
-        int left=0,right=Arrays.stream(nums).sum();
-        for (int i=0;i<nums.length;i++){
-           right-=nums[i];
-           ans[i]=Math.abs(left-right);
-           left+=nums[i];
-        }
-        return ans;
+        for(int i=1;i<=nums.length-1;i++) {
+				nums[i]=nums[i-1]+nums[i];
+		}
+     int n=nums.length-1;
+     int[] arr=new int[nums.length];
+     int left=0;
+     for(int i=0;i<=n;i++) {
+        	 arr[i]=Math.abs(left-(nums[n]-nums[i]));
+             left=nums[i];
+     }
+     return arr;
     }
 }
