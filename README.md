@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/preritasaini1/Leetcode/tree/master/0961-long-pressed-name) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/preritasaini1/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/preritasaini1/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3312-number-of-changing-keys](https://github.com/preritasaini1/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3447-clear-digits](https://github.com/preritasaini1/Leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
