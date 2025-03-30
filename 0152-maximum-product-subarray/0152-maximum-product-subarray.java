@@ -10,8 +10,8 @@ class Solution {
         }
         return max_product;*/
 
-        //Optimmal Approach- Kadane's Algorithm
-        int max_product = nums[0];
+    //Optimmal Approach- Kadane's Algorithm
+    int max_product = nums[0];
     int min_product = nums[0]; // Track min in case of negatives
     int result = nums[0];
 
