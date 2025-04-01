@@ -8,9 +8,9 @@ class Solution {
             else if( !stack.isEmpty()&& stack.peek()=='('){
                     stack.pop();
             }
-                else{
-                    stack.push(ch);
-                }
+            else{
+                stack.push(ch);
+            }
         }
     return stack.size();
     }
