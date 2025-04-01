@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/preritasaini1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/preritasaini1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/preritasaini1/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/preritasaini1/Leetcode/tree/master/0961-long-pressed-name) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/preritasaini1/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/preritasaini1/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/preritasaini1/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/preritasaini1/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/preritasaini1/Leetcode/tree/master/3447-clear-digits) |
 ## Recursion
@@ -222,4 +224,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/preritasaini1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/preritasaini1/Leetcode/tree/master/0455-assign-cookies) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/preritasaini1/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
