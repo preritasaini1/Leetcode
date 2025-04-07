@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/preritasaini1/Leetcode/tree/master/0961-long-pressed-name) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/preritasaini1/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2470-removing-stars-from-a-string](https://github.com/preritasaini1/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/preritasaini1/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3312-number-of-changing-keys](https://github.com/preritasaini1/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3447-clear-digits](https://github.com/preritasaini1/Leetcode/tree/master/3447-clear-digits) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/preritasaini1/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/preritasaini1/Leetcode/tree/master/0415-add-strings) |
+| [2470-removing-stars-from-a-string](https://github.com/preritasaini1/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/preritasaini1/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/preritasaini1/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/preritasaini1/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/preritasaini1/Leetcode/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
