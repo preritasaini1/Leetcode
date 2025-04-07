@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/preritasaini1/Leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/preritasaini1/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/preritasaini1/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/preritasaini1/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/preritasaini1/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/preritasaini1/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-strictly-palindromic-number](https://github.com/preritasaini1/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/preritasaini1/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/preritasaini1/Leetcode/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/preritasaini1/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
 | ------- |
