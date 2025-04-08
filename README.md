@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/preritasaini1/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/preritasaini1/Leetcode/tree/master/0961-long-pressed-name) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/preritasaini1/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/preritasaini1/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/preritasaini1/Leetcode/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/preritasaini1/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/preritasaini1/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/preritasaini1/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/preritasaini1/Leetcode/tree/master/3447-clear-digits) |
