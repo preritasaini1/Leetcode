@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/preritasaini1/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/preritasaini1/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/preritasaini1/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2634-minimum-common-value](https://github.com/preritasaini1/Leetcode/tree/master/2634-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/preritasaini1/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/preritasaini1/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/preritasaini1/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/preritasaini1/Leetcode/tree/master/0961-long-pressed-name) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/preritasaini1/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/preritasaini1/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2634-minimum-common-value](https://github.com/preritasaini1/Leetcode/tree/master/2634-minimum-common-value) |
 ## Memoization
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/preritasaini1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preritasaini1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/preritasaini1/Leetcode/tree/master/0367-valid-perfect-square) |
+| [2634-minimum-common-value](https://github.com/preritasaini1/Leetcode/tree/master/2634-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/preritasaini1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/preritasaini1/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/preritasaini1/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2634-minimum-common-value](https://github.com/preritasaini1/Leetcode/tree/master/2634-minimum-common-value) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/preritasaini1/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
