@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/preritasaini1/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/preritasaini1/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/preritasaini1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/preritasaini1/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/preritasaini1/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/preritasaini1/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/preritasaini1/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/preritasaini1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preritasaini1/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/preritasaini1/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/preritasaini1/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/preritasaini1/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/preritasaini1/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/preritasaini1/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/preritasaini1/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/preritasaini1/Leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/preritasaini1/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/preritasaini1/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/preritasaini1/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/preritasaini1/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
