@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/preritasaini1/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/preritasaini1/Leetcode/tree/master/3371-harshad-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/preritasaini1/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3830-find-closest-person](https://github.com/preritasaini1/Leetcode/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
