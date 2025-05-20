@@ -12,6 +12,7 @@ class Solution {
         }
         return count;*/
 
+       //Another approach-
         s= s.toLowerCase();
         int cnt= 0;
         char temp=s.charAt(0);
