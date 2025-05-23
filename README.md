@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/preritasaini1/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/preritasaini1/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/preritasaini1/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1646-kth-missing-positive-number](https://github.com/preritasaini1/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/preritasaini1/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/preritasaini1/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/preritasaini1/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/preritasaini1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/preritasaini1/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/preritasaini1/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1646-kth-missing-positive-number](https://github.com/preritasaini1/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2634-minimum-common-value](https://github.com/preritasaini1/Leetcode/tree/master/2634-minimum-common-value) |
 ## Matrix
 |  |
