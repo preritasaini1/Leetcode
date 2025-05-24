@@ -2,26 +2,17 @@ import java.util.*;
 
 class Solution {
     public int maxSubstrings(String word) {
-        int n = word.length();
-        List<int[]> validSubs = new ArrayList<>();
-
-        for (int i = 0; i <= n - 4; i++) {
-            for (int j = i + 3; j < n; j++) {
-                if (word.charAt(i) == word.charAt(j)) {
-                    validSubs.add(new int[]{i, j});
-                    break; 
-                }
+         int n=word.length(),cnt=0;
+        if(n<4) return 0;
+        boolean[] seen=new boolean[26];
+        for(int i=3;i<n;i++){
+            seen[word.charAt(i-3)-'a']=true;
+            if(seen[word.charAt(i)-'a']){
+                cnt++;
+                seen=new boolean[26];
+                i+=3;
             }
         }
-        validSubs.sort((a, b) -> Integer.compare(a[1], b[1]));
-        int count = 0, lastEnd = -1;
-        for (int[] sub : validSubs) {
-            if (sub[0] > lastEnd) {
-                count++;
-                lastEnd = sub[1];
-            }
-        }
-
-        return count;
+        return cnt;
     }
 }
